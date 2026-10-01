@@ -1,34 +1,169 @@
 <h1 align="center">Hi 👋, I'm Riha Begum</h1>
-<h3 align="center">"Aspiring Full-Stack Web Developer | React Enthusiast"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rihadev&label=Profile%20views&color=0e75b6&style=flat" alt="rihadev" /> </p>
+<h3 align="center">
+  Aspiring Full-Stack Web Developer | React Enthusiast
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rihadev" alt="rihadev" /></a> </p>
-
-- 🔭 I’m currently working on **Persional Portfolio Website**
-
-- 🌱 I’m currently learning **React, JavaScript & Full-Stack Development**
-
-- 👯 I’m looking to collaborate on **Frontend Web projects**
-
-- 🤝 I’m looking for help with **Backend & Full-Stack Development**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-
-- 📫 How to reach me **rihabegum.dev@gmail.com**
-
-- ⚡ Fun fact **I love learning new technologies**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dribbble.com/@riha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="@riha" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/rihadev">
+    <img src="https://komarev.com/ghpvc/?username=rihadev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/rihadev">
+    <img src="https://img.shields.io/github/followers/rihadev?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/rihadev?tab=repositories">
+    <img src="https://img.shields.io/github/stars/rihadev?affiliations=OWNER&style=flat&label=Stars" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/rihadev?tab=repositories">
+    <img src="https://img.shields.io/github/last-commit/rihadev/rihadev?style=flat&label=Last%20Commit" alt="Last Commit" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rihadev&show_icons=true&locale=en&layout=compact" alt="rihadev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rihadev&show_icons=true&locale=en" alt="rihadev" /></p>
+## 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rihadev&" alt="rihadev" /></p>
+* 🎓 Computer Science & Technology student
+* 💻 Passionate about Web Development
+* ⚛️ Currently focused on **React & JavaScript**
+* 🌱 Learning **Full-Stack Web Development**
+* 🚀 Building projects to improve my practical skills
+* 🤝 Interested in collaborating on **Frontend & Web Projects**
+* 🎯 Working towards becoming a **Full-Stack Web Developer**
+* ⚡ Fun fact: I enjoy learning new technologies and building things from scratch
+
+---
+
+## 🚀 What I'm Currently Working On
+
+🔭 **Personal Portfolio Website**
+
+🌱 **Learning:** JavaScript • React • Tailwind CSS • Full-Stack Development
+
+📚 **Improving:** API Integration • Authentication • Git & GitHub • Problem Solving
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rihadev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihadev&layout=compact&langs_count=8&hide_border=true" height="180" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rihadev&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rihadev&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/rihadev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadev&repo=YOUR-PORTFOLIO-REPO&hide_border=true" alt="Portfolio Project"/>
+</a>
+
+<a href="https://github.com/rihadev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadev&repo=YOUR-PROJECT-2&hide_border=true" alt="Featured Project"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/rihadev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadev&repo=YOUR-PROJECT-3&hide_border=true" alt="Featured Project"/>
+</a>
+
+<a href="https://github.com/rihadev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rihadev&repo=YOUR-PROJECT-4&hide_border=true" alt="Featured Project"/>
+</a>
+
+</p>
+
+> 💡 Replace `YOUR-PORTFOLIO-REPO`, `YOUR-PROJECT-2`, etc. with your actual repository names.
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rihadev&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rihadev&show_icons=true&hide=issues&hide_border=true" alt="GitHub Activity"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:rihabegum.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/rihadev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Developer Quote
+
+<p align="center">
+  <i>"The best way to learn programming is to build something."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
